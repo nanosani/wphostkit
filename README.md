@@ -154,7 +154,7 @@ See the `LICENSE` file for more details.
 
 ## ✨ Credits
 
-Developed by [Your Name or Team]  
+Developed by Team Itechtics  
 Powered by ❤️ and open-source principles.
 
 ---
